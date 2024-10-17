@@ -4,7 +4,7 @@
 -  I’m interested in finding and creating solutions to make education more equitable using computational tools with a cognitive science perspective
 -  I’m currently learning deep learning and neural networks for NLP, tableau, and brushing up on R
 -  I’m  partnering with SD Hunger Coalition to build models that accurately predict future nutrition insecurity, create informative data visualizations, and improve methodologies.
--  How to reach me: (mailto:amyjxtan@gmail.com)
+-  How to reach me: <mailto:amyjxtan@gmail.com>
 
 <!---
 amyjxtan/amyjxtan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
