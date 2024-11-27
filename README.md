@@ -3,7 +3,7 @@
 **I'm currently a Computational Social Science M.S. Student at UC San Diego** 🌊
 -  I’m interested in working with communities to find and create solutions to make education more equitable using computational tools with a cognitive science perspective
 -  I’m currently learning deep learning and neural networks for NLP, tableau, and SQL
--  I’m  partnering with SD Hunger Coalition to build models that accurately predict future nutrition insecurity, create informative data visualizations, and improve methodologies.
+-  I’m  partnering with [SD Hunger Coalition](https://www.sandiegohungercoalition.org/) to build models that accurately predict future nutrition insecurity, create informative data visualizations, and improve methodologies.
 -  How to reach me: **amyjxtan@gmail.com**
 
 <!---
